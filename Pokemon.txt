@@ -4,3 +4,4 @@ Squirtle
 Alakazam
 charmilion
 mew
+pokemon 1
